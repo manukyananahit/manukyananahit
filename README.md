@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Anahit! 
 
-<!--
-**manukyananahit/manukyananahit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 AUA, Data Science | Frances King London, UK
+- 🌍 Based in Yerevan, Armenia
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m passionate about leveraging the power of Artificial Intelligence and Data Science to solve real-world problems and build impactful solutions. My interests lie in implementing AI tools, exploring deep learning, and working on innovative projects that enhance user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔒 Projects & Portfolio
+I’ve worked on a range of impactful projects across data science, AI, and analytics. Many of these projects are private, but I'm always open to discussing them. If you'd like to learn more about my works, feel free to reach out — I’d be happy to showcase and explain my projects.
+
+---
+
+## 🤝 Open to Collaborate
+I'm actively looking for collaboration opportunities in:
+- Data Science & Machine Learning
+- AI-driven innovation
+- UX Research and Data Analytics
+
+---
+
+## 📫 Connect with Me
+- **Email:** anahitm2002@gmail.com
+- **LinkedIn:** [Anahit Manukyan](www.linkedin.com/in/anahit-manukyan-1ba10a248)
+
+---
+
+Thank you for visiting my profile! Let's connect and explore ways to make a meaningful impact together.
