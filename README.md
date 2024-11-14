@@ -22,7 +22,7 @@ I'm actively looking for collaboration opportunities in:
 
 ### 📫 Connect with Me
 - **Email:** anahitm2002@gmail.com
-- **LinkedIn:** [Anahit Manukyan](www.linkedin.com/in/anahit-manukyan-1ba10a248)
+- **LinkedIn:** [Anahit Manukyan](https://linkedin.com/in/anahit-manukyan-1ba10a248)
 
 ---
 
